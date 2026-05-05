@@ -33,3 +33,13 @@ It recreates three main screens of WhatsApp using modern UI design and React Nav
 
 ---
 
+## 📸 App Preview
+
+### 🟢 Chats Screen
+![Chats Screen](./assets/screens/chats.png)
+
+### 🟢 Status Screen
+![Status Screen](./assets/screens/status.png)
+
+### 🟢 Calls Screen
+![Calls Screen](./assets/screens/calls.png)
