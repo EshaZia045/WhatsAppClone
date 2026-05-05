@@ -1,12 +1,12 @@
-# 📱 WhatsApp Clone (React Native + Expo)
+# WhatsApp Clone (React Native + Expo)
 
-## 📌 Project Description
+##  Project Description
 This is a WhatsApp UI Clone built using React Native and Expo.  
 It recreates three main screens of WhatsApp using modern UI design and React Navigation (Bottom Tabs).
 
 ---
 
-## 🚀 Features
+## Features
 - Bottom Tab Navigation (Chats, Status, Calls)
 - WhatsApp-like UI design
 - Chats screen with message list
@@ -18,7 +18,7 @@ It recreates three main screens of WhatsApp using modern UI design and React Nav
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - React Native
 - Expo
 - React Navigation
@@ -26,11 +26,11 @@ It recreates three main screens of WhatsApp using modern UI design and React Nav
 
 ---
 
-## 📱 Screens Included
+## Screens Included
 1. Chats Screen  
 2. Status Screen  
 3. Calls Screen  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
