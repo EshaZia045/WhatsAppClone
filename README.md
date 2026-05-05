@@ -1,4 +1,4 @@
-# WhatsApp Clone (React Native + Expo)
+    # WhatsApp Clone (React Native + Expo)
 
 ##  Project Description
 This is a WhatsApp UI Clone built using React Native and Expo.  
