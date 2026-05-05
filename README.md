@@ -33,4 +33,3 @@ It recreates three main screens of WhatsApp using modern UI design and React Nav
 
 ---
 
-## Project Structure
